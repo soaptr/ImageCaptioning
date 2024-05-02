@@ -15,4 +15,4 @@
 
 Example of telegram bot working  
 
-![](example.pmg) 
+![](example.png) 
